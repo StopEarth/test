@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link href="style2.css" rel="stylesheet" type="text/css" media="all" />
+	<title>Test</title>
+</head>
+<body >
+	<div class="menu">
+		<nav>
+			<ul>
+				<li>Menu
+					<ul>
+						<li><a href="events.html">Mountains</a></li>
+						<li><a href="registration.html">Room</a></li>
+						<li><a href="graduates.html">Registration</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+	</div>
+	<header>
+		<h1> Live this life </h1>
+		<p> Dont waste your time on trifles </p>
+	</header>
+	<main class="wrapper">
+		<section class="section static">
+			<h1>“Maybe that’s what life is… a wink of the eye and winking stars.” ~ Jack Kerouac</h1>
+			<p> Leave it to Kerouac to put life into such pretty terms. Could it really be that simple?
+			There’s just no way to know, but the overall message here is that life is a beautiful thing, short but amazing and full of wonder. 
+			There’s also that word maybe that says that he doesn’t really know, and none of us really know we’re all just taking our best guess. 
+			It’s nice to leave that wiggle room instead of stating that you know all about what life is.</p> 
+		</section>
+	</main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link href="style3.css" rel="stylesheet" type="text/css" media="all" />
+	<title>Registration"</title>
+</head>
+<body >
+	<div class="box">
+		<h2>Registration</h2>
+			<form>
+				<div class="inputBox">
+					<input type="text" name=" " required=" " placeholder=" ">
+					<label>Username</label>
+				</div>
+				<div class="inputBox">
+					<input type="email" name=" " required=" " placeholder=" ">
+					<label>Email</label>
+				</div>
+				<div class="inputBox">
+					<input type="password" name=" " required=" " placeholder=" ">
+					<label>Passworld</label>
+				</div>
+				<input type="submit" name="" value="Submit">
+			</form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link href="style4.css" rel="stylesheet" type="text/css" media="all" />
+	<title>"Mountains"</title>
+</head>
+<body >
+	<div class="container">
+		<video autoplay muted loop id="myVideo">
+			<source src="bgvid.mp4" type="video/mp4">
+		</video>
+		<div class="cloud"></div>
+	</div>
+</body>	
+</html>
